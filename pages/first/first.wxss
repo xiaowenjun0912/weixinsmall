@@ -1,0 +1,16 @@
+/* pages/first/first.wxss */
+view{
+  width: 33.3333%;
+  float: left;
+  text-align: center;
+}
+view image{
+  width: 80%;
+  height: 80%;
+  display: block;
+  margin:0 auto;
+}
+view text{
+  display: block;
+  font-size: 12px;
+}

@@ -1,0 +1,13 @@
+{
+  "pages": [
+    "pages/first/first",
+    "pages/xiaosiru/xiaosiru",
+    "data"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#9cdcf7",
+    "navigationBarTitleText": "小怪兽",
+    "navigationBarTextStyle": "white"
+  }
+}

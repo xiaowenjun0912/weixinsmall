@@ -1,0 +1,4 @@
+<!--pages/xiaosiru/xiaosiru.wxml-->
+<text>一只小怪兽</text>
+<view class='root'><text>两只怪兽</text></view>
+<view id='top'></view>

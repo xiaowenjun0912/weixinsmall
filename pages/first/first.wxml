@@ -1,0 +1,6 @@
+<!--pages/first/first.wxml-->
+<!-- <text>pages/first/first.wxml</text> -->
+<view wx:for="{{carList}}">
+<image src='{{item.path}}'></image>
+<text>{{item.name}}</text>
+</view>

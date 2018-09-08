@@ -1,0 +1,4 @@
+/* pages/xiaosiru/xiaosiru.wxss */
+#top{
+  border: 10px solid orange;
+}
